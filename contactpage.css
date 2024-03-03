@@ -1,0 +1,16 @@
+body{
+    background-image:url("bookstore.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.d{
+    text-align: center;
+    font: size 36px;
+    font-weight:bolder;
+    font-style: italic;
+}
+.d1{
+    font-size: 34px;
+    font-weight: bold;
+}

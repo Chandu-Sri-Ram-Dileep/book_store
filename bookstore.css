@@ -1,0 +1,63 @@
+#head1{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+#head{
+    background-color:rgb(117, 112, 112);
+    /* display: flex;
+    justify-content: center;
+    align-content: flex-end; */
+    /* flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-items: center; */
+}
+.heading1{
+    height: 75px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(235, 11, 26);
+    /* justify-self: center; */
+    /* padding-left: 100px; */
+}
+.heading2{
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(235, 11, 26);
+    /* padding-left: 100px; */
+}
+#bar{
+     background-color: rgb(227, 80, 80);
+    height: 30px;
+    text-decoration: none;
+}
+.subh{
+    font-size: 20px;
+    color: black;
+    margin-right: 125px;
+    margin-left: 125px;
+    text-decoration: none;
+}
+.bio{
+    background-image: url("https://img.freepik.com/free-photo/old-books-row-isolated-white_124717-323.jpg?size=626&ext=jpg");
+}
+.head3{
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+}
+.det{
+    font-weight: bold;
+    font-size: larger;
+    width: 200px;
+    display: inline-block;
+}
+
+.ed{
+    display:inline-block;
+    font-weight: bold;
+    font-size: larger;
+    width: 250px;
+}
